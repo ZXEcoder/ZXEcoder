@@ -1,25 +1,23 @@
-# 📊 Data-Driven Innovation Hub 🤖
+## <p align="center">Hey, I'm [Suraj Kumar Jha](https://www.biodrop.io/ZXEcoder).</p>
 
-## Welcome to the Future of Engineering! 👋
-![My AI Journey](https://example.com/animated_graph.gif)
+<h3 align="center">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Welcome to my profile
+</h3>
 
-### Key Skills 🛠️
-![Skills Chart](https://example.com/skills_chart.png)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Open-Source+Enthusiast;Always+Learning+New+Things;Empowering+Others;Nice+To+Meet+You+...&center=true"></a>
 
-## Projects Showcase 🚀
-### Project Carousel
-[![Project 1](https://example.com/project1.gif)](https://example.com/project1)
-[![Project 2](https://example.com/project2.gif)](https://example.com/project2)
-[![Project 3](https://example.com/project3.gif)](https://example.com/project3)
+</p>
 
-### Project Statistics
-![Project Metrics](https://example.com/project_metrics.png)
+##
 
-## Contribute & Connect 🤝
-[![Contributor Stats](https://example.com/contributor_stats.png)](https://example.com/repo)
-[![Contribute](https://example.com/contribute_button.gif)](https://example.com/contributing_guidelines)
+```ts
+private static int updateDesktop (Image wallpaper) {
+int happiness;
+MyDesktop desktop = new MyDesktop();
+desktop.apply (wallpaper); happiness = INFINITY;
+return happiness;
+}
+```
 
-### Connect with Me 🌐
-[![LinkedIn](https://example.com/linkedin.gif)](https://example.com/linkedin)
-[![Twitter](https://example.com/twitter.gif)](https://example.com/twitter)
-[![Portfolio](https://example.com/portfolio.gif)](https://example.com/portfolio)
+  
