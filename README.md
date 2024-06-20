@@ -26,7 +26,7 @@ return happiness;
 
 ## About Me
 
-Hello! I'm [Your Name], an aspiring Data Scientist and Machine Learning enthusiast with a deep passion for Deep Learning, Natural Language Processing (NLP), and Generative AI. My GitHub repository is a collection of projects and experiments that reflect my journey in the world of data science and artificial intelligence.
+Hello! I'm [Suraj Kumar Jha], an aspiring Data Scientist and Machine Learning enthusiast with a deep passion for Deep Learning, Natural Language Processing (NLP), and Generative AI. My GitHub repository is a collection of projects and experiments that reflect my journey in the world of data science and artificial intelligence.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
 
