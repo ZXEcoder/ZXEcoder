@@ -26,9 +26,9 @@ return happiness;
 
 ## About Me
 
-Hello! I'm [Suraj Kumar Jha], an aspiring Data Scientist and Machine Learning enthusiast with a deep passion for Deep Learning, Natural Language Processing (NLP), and Generative AI. My GitHub repository is a collection of projects and experiments that reflect my journey in the world of data science and artificial intelligence.
+Hello! I'm Suraj Kumar Jha, an aspiring Data Scientist and Machine Learning enthusiast with a deep passion for Deep Learning, Natural Language Processing (NLP), and Generative AI. My GitHub repository is a collection of projects and experiments that reflect my journey in the world of data science and artificial intelligence.
 
-![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=ZXEcoder&color=blueviolet)
 
 ## Table of Contents
 
@@ -64,11 +64,11 @@ Hello! I'm [Suraj Kumar Jha], an aspiring Data Scientist and Machine Learning en
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZXEcoder&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXEcoderlayout=compact&theme=radical)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZXEcoder&theme=radical)
 
 ## Projects
 
