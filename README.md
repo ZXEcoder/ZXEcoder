@@ -43,6 +43,8 @@ Hello! I'm Suraj Kumar Jha, an aspiring Data Scientist and Machine Learning enth
 ## Skills
 
 ### Programming Languages
+- **C++**
+- **C**
 - **Python**
 - **R**
 - **SQL**
@@ -103,25 +105,18 @@ Hello! I'm Suraj Kumar Jha, an aspiring Data Scientist and Machine Learning enth
 - **Natural Language Processing** by Stanford University
 - **Machine Learning** by Stanford University on Coursera
 
-## Blogs & Articles
-
-I love sharing my knowledge and experiences through writing. Here are some of my published articles:
-
-- [Understanding LSTM Networks](https://medium.com/@yourusername/understanding-lstm-networks)
-- [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://medium.com/@yourusername/beginners-guide-to-gans)
-- [The Power of Transfer Learning in NLP](https://medium.com/@yourusername/power-of-transfer-learning-nlp)
 
 ## Contact
 
 I'm always open to networking, collaboration, and new opportunities. Feel free to reach out to me through:
 
-- **Email**: your.email@example.com
-- **LinkedIn**: [yourlinkedinprofile](https://www.linkedin.com/in/yourusername/)
-- **Twitter**: [@yourusername](https://twitter.com/yourusername)
+- **Email**: surajjha21103@gmail,com
+- **LinkedIn**: zxecoder(https://www.linkedin.com/in/zxecoder/)
+
 
 Thank you for visiting my GitHub profile! Let's connect and create something amazing together in the world of data science and AI. 🚀
 
 ---
 
-*Note: Replace placeholders like `yourusername`, `your.email@example.com`, and other links with your actual information before using this README.*
+
   
