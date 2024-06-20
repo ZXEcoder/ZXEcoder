@@ -66,7 +66,7 @@ Hello! I'm Suraj Kumar Jha, an aspiring Data Scientist and Machine Learning enth
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZXEcoder&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXEcoderlayout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZXEcoder&layout=compact&theme=radical)
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ZXEcoder&theme=radical)
 
@@ -96,7 +96,7 @@ Hello! I'm Suraj Kumar Jha, an aspiring Data Scientist and Machine Learning enth
 - **Highlights**: Achieved high detection accuracy with fast processing times.
 - [Repository Link](https://github.com/yourusername/object-detection-yolo)
 
-## Certifications
+## Courses
 
 - **Deep Learning Specialization** by Andrew Ng on Coursera
 - **Data Scientist with Python** by DataCamp
